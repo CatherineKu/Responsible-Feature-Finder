@@ -5,7 +5,7 @@ import pandas as pd
 from openai import OpenAI
 
 # Initialize client
-client = OpenAI(api_key=os.getenv("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"))
+client = OpenAI(api_key=os.getenv(""))
 
 
 # 数据集的根目录
